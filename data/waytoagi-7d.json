@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T13:06:33.297424Z",
+  "generated_at": "2026-02-23T18:42:07.129212Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-23",
-  "count_today": 5,
+  "count_today": 8,
   "updates_today": [
     {
       "date": "2026-02-23",
@@ -19,6 +19,11 @@
     },
     {
       "date": "2026-02-23",
+      "title": "这个大模型评测打破了传统榜单总分导向的弊端！XSCT Bench平台以场景化为核心，靠六大科学评分策略保障结果精准，还独创了多场景推荐指数，让不同需求都能找到适配模型。平台可以直观对比模型真实输出，精准区分模型能力短板与Prompt问题，还提供了多维度可视化分析，为大家高效选出高性价比、贴合业务场景的模型大幅节省试错成本，快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-23",
       "title": "开发者AlexFinn靠OpenClaw月入超万美元的实战指南来了！这篇内容揭秘其本地部署的核心优势与5分钟快速上手方案，教你打造24/7工作的专属数字员工。从建立工作关系、反向提示的核心思维，到搭建每日简报、任务控制中心的落地玩法，再到安全使用规则，全维度拆解高效用法，帮你解锁主动工作、自我改进的AI生产力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -31,9 +36,19 @@
       "date": "2026-02-23",
       "title": "OpenAI Codex负责人的深度访谈，带你拆解AI编码与Agent时代的核心趋势。Codex半年实现20倍增长，OpenAI内部已实现AI主导代码编写，工程师工作模式彻底转向“委托式”协作。综合来看，AGI发展的核心瓶颈在人机交互而非模型，通用Agent或将主导市场。此外，AI时代的主动性、品味与质量才是稀缺能力！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "AetherViz Master 依托 Gemini 3.1 把零代码 3D 互动教学变成现实。只需输入知识点，几秒就能自动生成可交互网页，覆盖多学科并智能切换 2D/3D 渲染，集成公式、测验、参数调节等完整教学能力。它让抽象知识变成立体可操作的体验，真正把学习从被动接收变成主动探索，为教育工具带来体验级革新！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "AI Agent正在重构SaaS行业，2026年初软件板块蒸发2万亿市值，传统SaaS的界面、工作流等护城河被系统性瓦解，按座位收费模式彻底失效。这篇文章拆解了旧壁垒崩塌的核心原因，明晰新护城河的四大核心维度，带你揭秘SaaS分裂为AI-Infra、垂直AI、Agent SaaS三大新物种的行业趋势，更给出投资者、企业、创业者的专属战略行动指南。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-02-23",
@@ -47,6 +62,11 @@
     },
     {
       "date": "2026-02-23",
+      "title": "这个大模型评测打破了传统榜单总分导向的弊端！XSCT Bench平台以场景化为核心，靠六大科学评分策略保障结果精准，还独创了多场景推荐指数，让不同需求都能找到适配模型。平台可以直观对比模型真实输出，精准区分模型能力短板与Prompt问题，还提供了多维度可视化分析，为大家高效选出高性价比、贴合业务场景的模型大幅节省试错成本，快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-23",
       "title": "开发者AlexFinn靠OpenClaw月入超万美元的实战指南来了！这篇内容揭秘其本地部署的核心优势与5分钟快速上手方案，教你打造24/7工作的专属数字员工。从建立工作关系、反向提示的核心思维，到搭建每日简报、任务控制中心的落地玩法，再到安全使用规则，全维度拆解高效用法，帮你解锁主动工作、自我改进的AI生产力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -58,6 +78,16 @@
     {
       "date": "2026-02-23",
       "title": "OpenAI Codex负责人的深度访谈，带你拆解AI编码与Agent时代的核心趋势。Codex半年实现20倍增长，OpenAI内部已实现AI主导代码编写，工程师工作模式彻底转向“委托式”协作。综合来看，AGI发展的核心瓶颈在人机交互而非模型，通用Agent或将主导市场。此外，AI时代的主动性、品味与质量才是稀缺能力！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "AetherViz Master 依托 Gemini 3.1 把零代码 3D 互动教学变成现实。只需输入知识点，几秒就能自动生成可交互网页，覆盖多学科并智能切换 2D/3D 渲染，集成公式、测验、参数调节等完整教学能力。它让抽象知识变成立体可操作的体验，真正把学习从被动接收变成主动探索，为教育工具带来体验级革新！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-23",
+      "title": "AI Agent正在重构SaaS行业，2026年初软件板块蒸发2万亿市值，传统SaaS的界面、工作流等护城河被系统性瓦解，按座位收费模式彻底失效。这篇文章拆解了旧壁垒崩塌的核心原因，明晰新护城河的四大核心维度，带你揭秘SaaS分裂为AI-Infra、垂直AI、Agent SaaS三大新物种的行业趋势，更给出投资者、企业、创业者的专属战略行动指南。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -203,41 +233,6 @@
     {
       "date": "2026-02-18",
       "title": "Anthropic全新推出Claude Sonnet 4.6！能力全面升级却保持原价，免费和Pro用户都可直接使用，堪称平价享旗舰级AI体验。这款模型在编程上更严谨、计算机操作逼近人类水平，还解锁了百万token长上下文。开发者工具也同步焕新，免费用户也能解锁文件创建等实用功能，不管是日常开发、办公处理还是Agent相关任务，都能大幅提效，性价比直接拉满！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-17",
-      "title": "跳出“SEO=排名”的浅层认知！这篇干货带你拆解谷歌SEO的核心逻辑，帮你摆脱单点优化的误区。作者围绕页面基建、内容体系、外链信任三大板块，明确基建是可索引的地基，内容要匹配搜索意图、以蓝海词突围，外链是自然增长的信任投票，内链则是权重引导关键。厘清各板块底层逻辑与实操重点，就可以建立长期稳定的谷歌流量思维，做SEO能少走弯路、高效布局。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-17",
-      "title": "单Agent用久了会出现记忆混乱、Token浪费、响应变慢的问题。这篇针对OpenClaw的多Agent实战教程帮你搭建专属AI团队！采用单Bot+多群组隔离方案，一个机器人就可以化身不同专家，各自拥有独立工作区与记忆，互不干扰。作者手把手教你创建专属Agent、绑定飞书群、设置免@回复，还揭秘了Agent间通信协作机制，让主Agent智能派单、专家Agent高效执行，真正实现一个人指挥一支AI队伍，大幅降低成本、提升效率，硬核玩家不容错过！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-17",
-      "title": "人类或许正踏入智能无限生产的AI奇点时代，这篇深度推演直戳未来核心！曾200美金就能拥有同等顶级AI能力的平等窗口正在关闭，智能使用成本差距持续拉大，纯认知劳动的经济价值将趋近于零。未来是少数人掌控海量Agent实现百倍效能杠杆，而当下基建、规则皆为人类设计。能源成为智能发展的核心约束，工作、教育、公司等基于“智能稀缺”的体系，都将被彻底重构！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-17",
-      "title": "OpenClaw虽然Bug频发，却是跨境人不可错过的暴利工具！它是拥有系统级权限、长期记忆的7×24小时“数字员工”，后台值守自动干活，远超传统工具的降维能力。本篇文章整理了28个全自动落地玩法，覆盖流量、SEO、运营、获客、广告数据全链路，无需高成本，就可以跑通一个零工资超级团队！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-17",
-      "title": "OpenClaw创始人的Vibe Coding实战心法来啦！他依托GPT-5.2-Codex等顶尖模型，分享了一套颠覆传统的开发逻辑：Codex擅长深度重构、Opus适配快速修改，截图+短句即可精准沟通。在工作流上，多项目并行推进、直接提交main分支、跨项目复用解决方案，搭配CLI优先思路，大幅提升了交付效率。另外还有模型配置、依赖选择、自动化工具等实操技巧，可以帮开发者们突破推理时间与思考深度限制。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-17",
-      "title": "Agent时代已然颠覆互联网旧逻辑！这篇深度解析帮你跳出传统产品思维框架：DAU不再是万能指标，AI产品需要精打算力成本与用户价值；工具很难再靠社区升级平台，真正的平台聚焦于大模型等基础层；SaaS核心用户转向Agent，接口适配比人机交互更关键；注意力经济退场，生产力才是核心竞争力。读懂这些变革，才能跳出旧框架，绘制 AI 时代的产品新地图。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-17",
-      "title": "2026春晚爆红的豆包，已然成为覆盖全场景的全能AI神器！这篇指南带你解锁核心高能用法，帮不同人群高效解决各类需求。依托顶尖的生图、视频模型可以一键生成3D手办、修复废片、制作音画同步创意短片；学习上可辅导作业、提炼文献精华；职场中能整理纪要、完成竞品调研；生活里还能提供穿搭建议、推荐美食。无需复杂操作，就能帮你节省大量时间，学生、打工人以及创作者，都能靠它轻松提升效率！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
