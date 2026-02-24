@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T14:40:29.242218Z",
+  "generated_at": "2026-02-24T18:11:07.361729Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-24",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-02-24",
@@ -26,9 +26,19 @@
       "date": "2026-02-24",
       "title": "OpenAI API工程负责人Sherwin Wu谈到OpenAI内部95%工程师靠Codex写代码、审PR，工程师已经转型为智能体管理者。未来 12-18 个月，长任务、音频多模态模型会成为主流，还将迎来“一人十亿”初创公司与B2B SaaS黄金时代。企业 AI 落地需要兼顾上下协同，开发者更要聚焦打造用户真正需要的产品，快来一同探索未来的科技机遇。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Engram这款开源神器打破AI知识检索的局限，注入可共享、可切换的完整专家记忆，包含人设、思维模式与决策流程，零向量依赖还比RAG更精准。分层懒加载设计可以精准控制token消耗，记忆还可一键分享，让AI秒变同领域专家，甚至叠加多领域记忆打造超级智能体。目前覆盖专家顾问、模拟面试等多个场景，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Agent时代执行力不再稀缺，判断力却成为最珍贵的资产！一个人就能完成昔日团队的工作，想法到落地的壁垒彻底打破，判断力可以编码进系统独立产生复利，试错与验证周期也被大幅压缩。当“做不到”的借口消失，每一次选择都在考验判断，占据协议、数据等核心生态位才是关键。或许这个时代更偏爱敢探索、快迭代的人，唯有在新旧秩序交替中持续判断、快速前行，才能抓住时代机遇。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 36,
   "updates_7d": [
     {
       "date": "2026-02-24",
@@ -48,6 +58,16 @@
     {
       "date": "2026-02-24",
       "title": "OpenAI API工程负责人Sherwin Wu谈到OpenAI内部95%工程师靠Codex写代码、审PR，工程师已经转型为智能体管理者。未来 12-18 个月，长任务、音频多模态模型会成为主流，还将迎来“一人十亿”初创公司与B2B SaaS黄金时代。企业 AI 落地需要兼顾上下协同，开发者更要聚焦打造用户真正需要的产品，快来一同探索未来的科技机遇。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Engram这款开源神器打破AI知识检索的局限，注入可共享、可切换的完整专家记忆，包含人设、思维模式与决策流程，零向量依赖还比RAG更精准。分层懒加载设计可以精准控制token消耗，记忆还可一键分享，让AI秒变同领域专家，甚至叠加多领域记忆打造超级智能体。目前覆盖专家顾问、模拟面试等多个场景，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-24",
+      "title": "Agent时代执行力不再稀缺，判断力却成为最珍贵的资产！一个人就能完成昔日团队的工作，想法到落地的壁垒彻底打破，判断力可以编码进系统独立产生复利，试错与验证周期也被大幅压缩。当“做不到”的借口消失，每一次选择都在考验判断，占据协议、数据等核心生态位才是关键。或许这个时代更偏爱敢探索、快迭代的人，唯有在新旧秩序交替中持续判断、快速前行，才能抓住时代机遇。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -198,41 +218,6 @@
     {
       "date": "2026-02-19",
       "title": "2026游戏行业AI零基础学习指南来啦！作者清晰划分了游戏行业AI相关岗位，给出超落地的学习思路，从解决工作痛点切入，拆解AI编码、美术、Agent等各类工具的学习重点与应用场景。工具链组合与工作流融合的实践思路，是游戏人借AI提升竞争力、不被淘汰的实用宝典！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-18",
-      "title": "这篇深度访谈带你解锁谷歌Gemini核心密码，对话首席科学家Jeff Dean，满是AI前沿干货与战略洞察！从蒸馏技术的真实起源，到“能否让 AI 关注整个互联网”的长上下文愿景；从用皮焦耳理解为什么 GPU 需要批处理，到那份改变了 Google AI 格局的一页纸备忘录，提供了兼具技术深度与行业方向的核心参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-18",
-      "title": "这篇OpenClaw硬核实操指南，带你把AI打造成专属24小时远程同事！避开部署坑点可灵活切换多个模型，配齐搜索、浏览器操作、文件同步与远程接管功能，还能通过人格配置和知识库入职培训，让AI深度适配你的工作习惯。作者传授了「让AI自己配置自己」的高效思路，并附上使用技巧与排错方法，还讲解了实际工作场景应用，帮你快速把AI从工具变成能协作、懂你的高效帮手！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-18",
-      "title": "我们与AI的每次对话，或许都在为少数巨头“交租”？未来社会，可能由谁掌握了“算力”，谁就掌握了真正的权力。这篇文章以“一只龙虾”的冷静视角推演，在AI让智能不再稀缺的时代，真正的稀缺资源是支撑AI运行的“算力”。本篇文章为普通人指明了在AGI时代可能残存的创业机会——不是成为“更会用AI”的人，而是去创造激发人类欲望的环境，或是为AI们建造一个全新的“原生世界”。这是正在发生的、比任何科幻都更安静的变革序幕。理解它，或许是你理解未来的第一把钥匙。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-18",
-      "title": "宝玉带你用Claude Code实现写作Git版本管理自动化，彻底解决忘提交、记录混乱的痛点！通过配置Stop Hook钩子，在任务结束时自动检测未提交变更并进行拦截，避免修改遗漏；再搭建专属Commit Skill技能，让AI按主题分组提交、生成规范中文提交信息，拒绝模糊记录。钩子守关、技能执行，无需手动操作，就能精准追踪每一次文稿修改，让写作者彻底摆脱版本管理琐碎，全身心投入创作，高效又省心，快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-18",
-      "title": "作者在失业期打造的设计Agent Mew Design实现盈利，这篇复盘或许是AI时代小团队创业的实战教科书！创始人零TypeScript基础，靠Vibe Coding与AI分工，聚焦决策与架构，让AI完成执行，快速落地产品。团队坚守“只交付结果”，隐藏技术复杂度，专为非设计师打造高可用图文设计。冷启动拒绝烧钱营销，深耕核心用户反馈，用AI搭建数据洞察、风控体系。技术平权下，思考力才是核心竞争力！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-18",
-      "title": "Vercel打造的Claude Skills应用商店skills.sh太香了！不用自己写代码，一键安装就能解锁各类现成Skill，社区按安装量来进行排雷，优质实用款直接挑。Top10含7个开发者专属、3个全岗位通用款，还能挖到23个营销技能包。不仅能直接提升办公、开发效率，还能通过解读优质Skill快速学会搭建专属工作流，按岗位选装，轻松让 Claude 成为专属高效助手。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-18",
-      "title": "Anthropic全新推出Claude Sonnet 4.6！能力全面升级却保持原价，免费和Pro用户都可直接使用，堪称平价享旗舰级AI体验。这款模型在编程上更严谨、计算机操作逼近人类水平，还解锁了百万token长上下文。开发者工具也同步焕新，免费用户也能解锁文件创建等实用功能，不管是日常开发、办公处理还是Agent相关任务，都能大幅提效，性价比直接拉满！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
