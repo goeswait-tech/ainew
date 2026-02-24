@@ -57,7 +57,9 @@ jobs:
           if [ "$bj_hour" = "09" ] && [ "$bj_min" -le 15 ]; then
             should_send=true
           fi
-          if [ "$bj_hour" = "11" ] && [ "$bj_min" -le 15 ]; then
+          # Target 20:10 Beijing; snapshot runs every 30 min, so use the 20:00 scheduled run
+          # and allow delayed starts into the 20:25 window.
+          if [ "$bj_hour" = "20" ] && [ "$bj_min" -ge 10 ] && [ "$bj_min" -le 25 ]; then
             should_send=true
           fi
           echo "Beijing time now: $bj_time"
