@@ -2,10 +2,6 @@ name: Daily WeCom AI Digest
 
 on:
   workflow_dispatch:
-  schedule:
-    # GitHub Actions 定时触发在整点更容易延迟/丢触发；避开 :00 提高稳定性
-    - cron: "7 1 * * *" # 09:07 Asia/Shanghai
-    - cron: "0 3 * * *" # 11:00 Asia/Shanghai
 
 permissions:
   contents: read
