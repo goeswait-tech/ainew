@@ -9,6 +9,12 @@ on:
       - "assets/**"
       - "data/**"
       - ".github/workflows/deploy-pages.yml"
+  # Update AI News Snapshot uses GITHUB_TOKEN to push data/*, which does not trigger push-based workflows.
+  # Listen to the upstream workflow completion instead so Pages can auto-refresh after scheduled data updates.
+  workflow_run:
+    workflows: ["Update AI News Snapshot"]
+    types: [completed]
+    branches: ["master", "main"]
 
 permissions:
   contents: read
@@ -21,6 +27,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -28,6 +35,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_branch || github.ref_name }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
