@@ -1,14 +1,19 @@
 {
-  "generated_at": "2026-02-25T14:36:58.405254Z",
+  "generated_at": "2026-02-25T18:16:51.702436Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-25",
-  "count_today": 4,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-02-25",
+      "title": "本篇文章带你拆解OpenClaw的核心技术架构，让AI助手不再神秘！它依靠定时任务、心跳机制与Soul人格文件，从被动工具变成能主动干活的智能体。00 后开发者来新璐现场手搓了一个极简版本，还实现了AI自动拨打FaceTime、智能下播等名场面，趣味性与实用性拉满。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-25",
       "title": "OpenClaw的正确形态从不是独立App，而是嵌入Telegram等常用聊天工具，以多专业Agent分工协作的模式运作，搭配总管调度与统一记忆，主动汇报替代被动指令，大幅提升交互价值。当前跨Agent记忆共享是最大短板，却也是创业者的黄金赛道。看懂这套架构逻辑，或许你也能提前布局Agent协同的下一波红利。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
@@ -25,11 +30,21 @@
     {
       "date": "2026-02-25",
       "title": "2026年AI已迈入 Agent 时代的全新阶段！顶尖模型已经具备专家级能力与自主判断力，能长时间独立完成复杂任务。Agent可本地运行调用全量数据，通过MCP协议连接各类服务，借助Skills快速解锁专业技能，甚至能操作图形界面、联动物理载体。多智能体协作更打破效率瓶颈，组队并行工作还能沉淀经验持续进化。臧师傅这篇文章把2026年初AI领域到底发生了哪些变化，一层一层拆给你看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "2026年AI发展狂飙，agent从单打独斗升级为智能协作，多模态创作门槛骤降，各行业都在变革。作者直击个人破局关键：无论大厂、初创还是创业，都要扎进高浓度AI领域，掌握Build能力等核心技能，打破岗位边界。AI浪潮远比移动互联网迅猛，与其焦虑迷茫，不如搭建专属认知框架，找准自己的生态位。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-02-25",
+      "title": "本篇文章带你拆解OpenClaw的核心技术架构，让AI助手不再神秘！它依靠定时任务、心跳机制与Soul人格文件，从被动工具变成能主动干活的智能体。00 后开发者来新璐现场手搓了一个极简版本，还实现了AI自动拨打FaceTime、智能下播等名场面，趣味性与实用性拉满。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-25",
       "title": "OpenClaw的正确形态从不是独立App，而是嵌入Telegram等常用聊天工具，以多专业Agent分工协作的模式运作，搭配总管调度与统一记忆，主动汇报替代被动指令，大幅提升交互价值。当前跨Agent记忆共享是最大短板，却也是创业者的黄金赛道。看懂这套架构逻辑，或许你也能提前布局Agent协同的下一波红利。",
@@ -48,6 +63,11 @@
     {
       "date": "2026-02-25",
       "title": "2026年AI已迈入 Agent 时代的全新阶段！顶尖模型已经具备专家级能力与自主判断力，能长时间独立完成复杂任务。Agent可本地运行调用全量数据，通过MCP协议连接各类服务，借助Skills快速解锁专业技能，甚至能操作图形界面、联动物理载体。多智能体协作更打破效率瓶颈，组队并行工作还能沉淀经验持续进化。臧师傅这篇文章把2026年初AI领域到底发生了哪些变化，一层一层拆给你看！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-25",
+      "title": "2026年AI发展狂飙，agent从单打独斗升级为智能协作，多模态创作门槛骤降，各行业都在变革。作者直击个人破局关键：无论大厂、初创还是创业，都要扎进高浓度AI领域，掌握Build能力等核心技能，打破岗位边界。AI浪潮远比移动互联网迅猛，与其焦虑迷茫，不如搭建专属认知框架，找准自己的生态位。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -198,36 +218,6 @@
     {
       "date": "2026-02-20",
       "title": "AI投资人Matt Shumer的警示文引爆全网！他直言当下AI已突破质变，新模型能自主编程、测试并具备判断力，更开启了自我改进的“智能爆炸”。这并非遥远预言，而是1-5年内就将大规模取代法律、金融等白领工作的现实。本篇文章打破大众对免费AI的过时认知，给出极具价值的行动指南：立刻订阅顶级付费模型，将其深度融入核心工作，并提前做好财务与能力规划。这不仅是变革预警，更是普通人在AI时代站稳脚跟的生存手册。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-19",
-      "title": "针对ClawHub恶意技能事件，作者精选了53个OpenClaw官方内置安全技能，而且按16大类别拆解各技能的适配平台、风险等级及功能。按低到极高风险清晰归类，还提供了分阶段安装建议和三大安全原则，是OpenClaw用户安全高效配置技能的必备宝典！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-19",
-      "title": "这篇OpenClaw架构解析直击AI产品多端开发的割裂痛点，揭秘其以WebSocket Gateway打造统一AI交互控制平面的核心解法，拆解控制/数据平面分工、星形拓扑、节点接入等关键设计，通过实战案例展现跨端协作、状态同步的实操价值。这份反常识的架构思路，打破了多端开发的误区，为打造高协同、易扩展的AI系统提供核心参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-19",
-      "title": "这篇Claude Code创造者Boris的重磅访谈，带你深挖AI编程工具的崛起逻辑与未来趋势！这款年入10亿、贡献GitHub 4%公共代码的工具，竟源于一个学API的终端小工具。这篇访谈曝光了Anthropic人均生产力提升150%的核心成果。Boris直言软件工程师头衔即将消亡，编程会走向全民化，还给出了三大创业原则，为从业者借AI提效、把握行业趋势提供前沿指引。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-19",
-      "title": "Seedance 2.0横空出世，彻底改写AI短剧制作的游戏规则，让传统工业组装式的繁琐工作流直接被淘汰！这一导演级模型凭借统一多模态架构，实现从剧本理解到音画合成的全流程，大幅降低创作门槛。本篇文章深度拆解了传统AI短剧制作的痛点以及该模型的核心技术突破、使用渠道与实操技巧。Seedance 2.0让创作者从工具切换的泥潭中解放，回归创意本身，也让个人拥有打造商用级短剧的能力，重新定义了AI创作时代的创作者价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-19",
-      "title": "PingCAP CTO东旭与曲凯的深度对谈，带你深挖AI Coding与Agent技术的最新突破与行业趋势！两人解析了Claude Code、Clawdbot等热门产品的核心逻辑，分享了Clawdbot本地部署、24小时办公等实用场景，还探讨了AI时代的组织形态、创业方向与工程师转型建议，更提出Box新概念，为把握AI风口提供高价值前沿洞察。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-19",
-      "title": "2026游戏行业AI零基础学习指南来啦！作者清晰划分了游戏行业AI相关岗位，给出超落地的学习思路，从解决工作痛点切入，拆解AI编码、美术、Agent等各类工具的学习重点与应用场景。工具链组合与工作流融合的实践思路，是游戏人借AI提升竞争力、不被淘汰的实用宝典！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
