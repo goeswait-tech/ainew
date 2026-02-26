@@ -1,12 +1,17 @@
 {
-  "generated_at": "2026-02-26T14:35:10.433531Z",
+  "generated_at": "2026-02-26T18:04:54.961917Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-02-26",
-  "count_today": 3,
+  "count_today": 7,
   "updates_today": [
+    {
+      "date": "2026-02-26",
+      "title": "高密度信息图制作秘籍来了！AJ开源了全套专属提示词，可以轻松将复杂知识浓缩为层次清晰的3:4竖版可视化大图。8种特色视觉风格适配技术分析、教程指南等多个场景，让文章、框架快速变身高颜值专业信息图！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-26",
       "title": "这篇中东出海深度访谈为创业者解锁全新掘金阵地！阿联酋是低门槛出海门户，零税、安全而且数字基建很成熟，沙特则是潜力巨大的蓝海市场，当地付费意愿强，AI、SaaS、短剧等领域缺口显著。此次访谈直击出海关键：摒弃传统贸易思维，重视文化尊重与本地规则，做好数据合规。这份极具实操价值的中东出海指南不容错过！",
@@ -14,7 +19,22 @@
     },
     {
       "date": "2026-02-26",
+      "title": "这款 GitHub 检索 Skills 直接打通开源库的任督二脉！无需手动英文搜索，只需要说清需求，AI就会自动多轮检索、智能筛选分析，还能按需求关联度进行排序，而非单纯依赖星标数。在实测案例中的效果等超过预期，快来也试试这个宝藏Skill！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-26",
       "title": "爆火的Seedance 2.0AI又有一些商用新玩法！卡尔这篇文章总结了九大实用场景，从追热点、做商业广告、穿搭变装，到直播带货、动态海报、广告复刻，甚至真人短剧和AI漫剧都能轻松拿捏。它能智能识别产品卖点、精准还原分镜节奏，短剧和动漫的质感也都超惊艳。对短视频、电商和品牌创作者而言，是低成本创造优质内容的宝藏指南，上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "当下OpenClaw生态爆火，相关项目与公司扎堆涌现，作者整理了四大关键生态数据，超具参考价值！不仅有Vercel Skills和ClawHub Skills两大平台的技能热度榜；还涵盖OpenClaw初创企业收入榜、28天流量榜，直观呈现了企业营收与平台流量的现状。一手数据带你精准捕捉行业动态，判断市场趋势。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "作者开源了基于n8n搭建的评论深度分析工作流，搭配Gemini API实现22个维度的智能打标，自动生成有数据支撑的定量+定性分析报告，还能精准筛选高价值评论的解析。文章中附有完整源码和教程，教你从报告中挖掘可落地的商业机会。快来一同挖透评论里的用户需求、竞品痛点与市场空白！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,8 +43,13 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-02-26",
+      "title": "高密度信息图制作秘籍来了！AJ开源了全套专属提示词，可以轻松将复杂知识浓缩为层次清晰的3:4竖版可视化大图。8种特色视觉风格适配技术分析、教程指南等多个场景，让文章、框架快速变身高颜值专业信息图！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-02-26",
       "title": "这篇中东出海深度访谈为创业者解锁全新掘金阵地！阿联酋是低门槛出海门户，零税、安全而且数字基建很成熟，沙特则是潜力巨大的蓝海市场，当地付费意愿强，AI、SaaS、短剧等领域缺口显著。此次访谈直击出海关键：摒弃传统贸易思维，重视文化尊重与本地规则，做好数据合规。这份极具实操价值的中东出海指南不容错过！",
@@ -32,7 +57,22 @@
     },
     {
       "date": "2026-02-26",
+      "title": "这款 GitHub 检索 Skills 直接打通开源库的任督二脉！无需手动英文搜索，只需要说清需求，AI就会自动多轮检索、智能筛选分析，还能按需求关联度进行排序，而非单纯依赖星标数。在实测案例中的效果等超过预期，快来也试试这个宝藏Skill！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-26",
       "title": "爆火的Seedance 2.0AI又有一些商用新玩法！卡尔这篇文章总结了九大实用场景，从追热点、做商业广告、穿搭变装，到直播带货、动态海报、广告复刻，甚至真人短剧和AI漫剧都能轻松拿捏。它能智能识别产品卖点、精准还原分镜节奏，短剧和动漫的质感也都超惊艳。对短视频、电商和品牌创作者而言，是低成本创造优质内容的宝藏指南，上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "当下OpenClaw生态爆火，相关项目与公司扎堆涌现，作者整理了四大关键生态数据，超具参考价值！不仅有Vercel Skills和ClawHub Skills两大平台的技能热度榜；还涵盖OpenClaw初创企业收入榜、28天流量榜，直观呈现了企业营收与平台流量的现状。一手数据带你精准捕捉行业动态，判断市场趋势。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-02-26",
+      "title": "作者开源了基于n8n搭建的评论深度分析工作流，搭配Gemini API实现22个维度的智能打标，自动生成有数据支撑的定量+定性分析报告，还能精准筛选高价值评论的解析。文章中附有完整源码和教程，教你从报告中挖掘可落地的商业机会。快来一同挖透评论里的用户需求、竞品痛点与市场空白！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -183,41 +223,6 @@
     {
       "date": "2026-02-21",
       "title": "Google Gemini 3预训练负责人首次揭秘模型研发核心逻辑，带来满满前沿干货！Gemini 3的突破性提升，靠的是百人大团队的多维度改进合力，而非单纯算力堆砌，其混合专家架构更是实现了计算与参数的分离。行业正从“数据无限”转向“数据有限”的范式，合成数据需谨慎使用。此外负责人还分享了长上下文、注意力机制等预训练前沿方向，以及研究型工程、全技术栈理解的 AI 人才核心素养，快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-20",
-      "title": "这篇OpenClaw生态深度复盘，以资深用户的踩坑视角，拆解了从安装到落地的全链路痛点！覆盖Skills选择、多平台接入、多实例管理等核心痛点，曝光了社区技能安全隐患。此外作者还梳理了原生工具、快速部署等四大创业赛道布局与优劣，分层解析用户画像，给出行业演进和入局的实操建议，堪称玩转OpenClaw的必备指南。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-20",
-      "title": "这篇KimiClaw+OpenClaw实战干货，带你解锁AI自动化知识管理新玩法！作者卡尔分享了两大核心接入方式，可一键部署也能关联本地OpenClaw保留配置记忆，还附赠了全套提示语和安装细节。教你用定时+记忆功能打造专属数字分身，实现视频摘要自动抓取、邮件长文智能过滤、财报精准追踪，甚至搭建目标管理看板和极简第二大脑，让知识库自动生长，彻底从繁琐的信息整理中解放。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-20",
-      "title": "这份零基础友好的OpenClaw 实战指南，避开复杂底层配置，带你平滑上手！作者清晰拆解了 AI 智能体核心概念，纠正常见认知误区，提供从准备 API、一键安装、接入飞书到安全防护的完整流程。还对比 Kimi、MiniMax、GLM 三大国内模型，教你按需选择、控制成本，搭配 ClawHub 技能商店实现自动日报、资料整理等实用功能，真正把 AI 用进日常工作，大幅提升效率！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-20",
-      "title": "谷歌Gemini 3.1 Pro突袭发布，推理能力断层式飞跃！其在高难度ARC-AGI-2测试中得分翻倍，碾压Claude与GPT，在16项核心测试中斩获13项第一，价格却极具优势。它在编程、动画生成、复杂系统搭建上表现炸裂，还升级了 token 上限、文件上传等实用功能，专属 AI 干活模式让工具使用更稳定。谷歌此举剑指消费端 Agent 生态，目前多渠道可体验，或许是更高性价比的AI工具！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-20",
-      "title": "别再执着于打磨提示词，它仅仅能修饰表面，真正决定内容质量的是素材、模型、审稿能力。优质素材要凝练主线与关键信息，而非堆砌内容；选对模型是关键，Claude Opus 4.6等优质模型的文字把控力更优秀；审稿能力是最容易被忽略的隐性门槛，能精准挑错并反馈修改，才能让AI稿件摆脱平庸。三者兼备，才能让AI写出有质感、有价值的内容。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-20",
-      "title": "a16z合伙人重磅拆解AI商业变现核心，揭秘广告是AI触达十亿用户的必经之路！订阅模式难以覆盖AI规模化成本，而且多数用户仅仅用AI做轻量生产力，不愿意为基础功能付费，而广告本就是互联网的核心变现逻辑。AI广告更具优势，能依托对用户意图、上下文的深度理解，打造非打断式的高价值广告形态，还可以探索联盟电商、目标竞价等多元变现路径。这不仅是AI短期变现手段，更是长期迭代、持续服务的关键经济基础。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-02-20",
-      "title": "AI投资人Matt Shumer的警示文引爆全网！他直言当下AI已突破质变，新模型能自主编程、测试并具备判断力，更开启了自我改进的“智能爆炸”。这并非遥远预言，而是1-5年内就将大规模取代法律、金融等白领工作的现实。本篇文章打破大众对免费AI的过时认知，给出极具价值的行动指南：立刻订阅顶级付费模型，将其深度融入核心工作，并提前做好财务与能力规划。这不仅是变革预警，更是普通人在AI时代站稳脚跟的生存手册。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
