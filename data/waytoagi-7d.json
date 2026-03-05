@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-03-05T05:05:38.507147Z",
+  "generated_at": "2026-03-05T07:54:34.974237Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-05",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-03-05",
+      "title": "这份人文工作者专属AI指南超实用！作者不讲速成技巧，而是带你把AI变成可控工作台，守住可追溯、可操纵、愿署名三大底线分享了十余条实战原则，从拆解任务、多模型对比，到先工业化再AI化、批量生成筛选，破解AI幻觉等让你主导创作方向，AI承接执行工作，既保证了人文研究的严谨与品味，又靠标准化流程大幅提效。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-05",
       "title": "菲尔兹奖得主陶哲轩的最新演讲揭秘：保守的数学领域正在被形式验证与AI联手撬动。形式验证打破信任壁垒，让匿名大规模协作成为可能，他主导的项目50人三个月就攻克2200万道代数题，远超以往研究规模。AI虽然能解出奥赛题却常常犯会基础错误，它的核心价值不是替代数学家，而是包揽海量中等难度问题，把科研“蛋糕”做大，让人类可以聚焦核心突破，这或许就是AI与科学协作的未来方向。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Google官方推出了Workspace CLI 工具！刚上线就星标暴涨，它将 Drive、Gmail、日历等所有 Workspace API 封装成命令行指令，输出全是结构化的JSON，Agent 可以直接解析调用。而且支持实时同步 API 更新，无需等版本迭代，还能通过命令行、MCP Server、Skills 三种方式接入 Agent。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 42,
+  "count_7d": 44,
   "updates_7d": [
     {
       "date": "2026-03-05",
+      "title": "这份人文工作者专属AI指南超实用！作者不讲速成技巧，而是带你把AI变成可控工作台，守住可追溯、可操纵、愿署名三大底线分享了十余条实战原则，从拆解任务、多模型对比，到先工业化再AI化、批量生成筛选，破解AI幻觉等让你主导创作方向，AI承接执行工作，既保证了人文研究的严谨与品味，又靠标准化流程大幅提效。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-05",
       "title": "菲尔兹奖得主陶哲轩的最新演讲揭秘：保守的数学领域正在被形式验证与AI联手撬动。形式验证打破信任壁垒，让匿名大规模协作成为可能，他主导的项目50人三个月就攻克2200万道代数题，远超以往研究规模。AI虽然能解出奥赛题却常常犯会基础错误，它的核心价值不是替代数学家，而是包揽海量中等难度问题，把科研“蛋糕”做大，让人类可以聚焦核心突破，这或许就是AI与科学协作的未来方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-05",
+      "title": "Google官方推出了Workspace CLI 工具！刚上线就星标暴涨，它将 Drive、Gmail、日历等所有 Workspace API 封装成命令行指令，输出全是结构化的JSON，Agent 可以直接解析调用。而且支持实时同步 API 更新，无需等版本迭代，还能通过命令行、MCP Server、Skills 三种方式接入 Agent。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
