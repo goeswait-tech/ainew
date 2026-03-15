@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-03-15T14:00:39.007723Z",
+  "generated_at": "2026-03-15T15:47:40.661898Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-15",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-03-15",
       "title": "本文主要讲解OpenClaw内秉的多agents机制如何运作，以及如何安装并运行多agents。很多人第一次看 OpenClaw 的目录结构，都会被绕住。这篇文章就带你先把 OpenClaw 原生概念理解清楚，再搞懂agency-agents 的100多个agents是怎么接到这套体系里的。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "OpenClaw靠自身主动记忆极易遗漏混乱，作者的这篇文章给出一套三层记忆工程方案，通过机制兜底解决Agent“记不住、记不全、记不深”的问题。从会话压缩前的Memory Flush自动记录，到每小时心跳扫描补全信息，再到凌晨定时完成全天查漏与深度反思，最终实现日志完整度大幅提升，而且可以沉淀成可复用的经验、决策与项目进展。这套实战架构不仅能直接落地优化OpenClaw，也为所有Agent记忆系统设计提供了可复用思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 40,
+  "count_7d": 41,
   "updates_7d": [
     {
       "date": "2026-03-15",
       "title": "本文主要讲解OpenClaw内秉的多agents机制如何运作，以及如何安装并运行多agents。很多人第一次看 OpenClaw 的目录结构，都会被绕住。这篇文章就带你先把 OpenClaw 原生概念理解清楚，再搞懂agency-agents 的100多个agents是怎么接到这套体系里的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "OpenClaw靠自身主动记忆极易遗漏混乱，作者的这篇文章给出一套三层记忆工程方案，通过机制兜底解决Agent“记不住、记不全、记不深”的问题。从会话压缩前的Memory Flush自动记录，到每小时心跳扫描补全信息，再到凌晨定时完成全天查漏与深度反思，最终实现日志完整度大幅提升，而且可以沉淀成可复用的经验、决策与项目进展。这套实战架构不仅能直接落地优化OpenClaw，也为所有Agent记忆系统设计提供了可复用思路。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
