@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T16:17:15.547267Z",
+  "generated_at": "2026-03-16T19:43:29.635905Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-16",
-  "count_today": 3,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-16",
@@ -14,7 +14,22 @@
     },
     {
       "date": "2026-03-16",
+      "title": "你有没有遇到过这种情况：让AI帮你做个视频剪辑，或者批量处理一堆图片。结果AI的操作方式是：截屏，识别按钮位置，模拟鼠标点击。稍微换个分辨率就崩了。窗口弹出来挡住了关键按钮也崩了。软件更新了界面也崩了。而最近港大的一个开源项目 CLI-Anything 通过七步自动化流程，将开源软件源码转为 AI 可直接调用的命令行工具，输出结构化 JSON 数据，可以稳定不受分辨率、界面影响。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-16",
       "title": "Ramp是美国增长最快的企业金融平台之一，估值320亿美元，超过50,000家客户，年交易处理量超过1000亿美元。在The Pragmatic Summit上，Ramp派出了四人阵容分享他们过去一年在 AI 领域的实战经验：工程执行副总裁（EVP）Nik Koblov、应用 AI 总监 Viral Patel、以及两位资深工程师（Staff Engineer）Will Koh 和 Ian Tracey。干货满满！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Kimi 全新AttnRes架构被马斯克盛赞，它跳出DeepSeek仅优化权重的思路，将注意力机制融入层间通信，让每层能按需调取所有历史层原始信息，可以动态适配输入，从根源解决信息淹没、深层失效的问题。分块设计可以大幅降低工程成本，同等算力下性能直接提升25%，推理、代码等任务提升显著，更重新激活了模型「深度」设计维度。这一基础架构突破，为大模型研发指明了全新方向！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "AI音乐周刊第19期带你一手掌握行业版权变局与实用工具的突破！全球AI音乐版权战升级，谷歌、Suno深陷侵权诉讼，数据合规成行业必答题；而本地化与开源工具全面爆发，LocalMusic离线生成器、ComfyUI-AudioX视频配乐节点等实用工具上新，谷歌还开源了Lyria模型DAW插件。雅马哈推出一站式创作订阅，Orphere免费和声工具降低了乐理门槛，还有6篇顶会论文解锁音乐情感控制、视频配乐等技术新玩法，音乐人、开发者都能从中找到实用干货与行业趋势。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,7 +38,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-03-16",
@@ -32,7 +47,22 @@
     },
     {
       "date": "2026-03-16",
+      "title": "你有没有遇到过这种情况：让AI帮你做个视频剪辑，或者批量处理一堆图片。结果AI的操作方式是：截屏，识别按钮位置，模拟鼠标点击。稍微换个分辨率就崩了。窗口弹出来挡住了关键按钮也崩了。软件更新了界面也崩了。而最近港大的一个开源项目 CLI-Anything 通过七步自动化流程，将开源软件源码转为 AI 可直接调用的命令行工具，输出结构化 JSON 数据，可以稳定不受分辨率、界面影响。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-16",
       "title": "Ramp是美国增长最快的企业金融平台之一，估值320亿美元，超过50,000家客户，年交易处理量超过1000亿美元。在The Pragmatic Summit上，Ramp派出了四人阵容分享他们过去一年在 AI 领域的实战经验：工程执行副总裁（EVP）Nik Koblov、应用 AI 总监 Viral Patel、以及两位资深工程师（Staff Engineer）Will Koh 和 Ian Tracey。干货满满！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "Kimi 全新AttnRes架构被马斯克盛赞，它跳出DeepSeek仅优化权重的思路，将注意力机制融入层间通信，让每层能按需调取所有历史层原始信息，可以动态适配输入，从根源解决信息淹没、深层失效的问题。分块设计可以大幅降低工程成本，同等算力下性能直接提升25%，推理、代码等任务提升显著，更重新激活了模型「深度」设计维度。这一基础架构突破，为大模型研发指明了全新方向！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-16",
+      "title": "AI音乐周刊第19期带你一手掌握行业版权变局与实用工具的突破！全球AI音乐版权战升级，谷歌、Suno深陷侵权诉讼，数据合规成行业必答题；而本地化与开源工具全面爆发，LocalMusic离线生成器、ComfyUI-AudioX视频配乐节点等实用工具上新，谷歌还开源了Lyria模型DAW插件。雅马哈推出一站式创作订阅，Orphere免费和声工具降低了乐理门槛，还有6篇顶会论文解锁音乐情感控制、视频配乐等技术新玩法，音乐人、开发者都能从中找到实用干货与行业趋势。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
