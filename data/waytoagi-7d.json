@@ -1,25 +1,40 @@
 {
-  "generated_at": "2026-03-17T14:45:07.595009Z",
+  "generated_at": "2026-03-17T18:09:02.146530Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-17",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-03-17",
+      "title": "这篇文章带你明晰OpenClaw里的skill本质是什么、skill 的目录层次是怎么样的、以及main agent、agency-agents、sub-agent 之间和skill的关系。很多人第一次接触 OpenClaw 的 skills 机制，都会把几件事混在一起。如果这些边界不先讲清楚，后面一旦开始做 multi-agent 协作，目录结构和行为就会越看越像“玄学”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-17",
       "title": "这是老黄今天在 GTC 2026 上给出的最炸裂数字，Blackwell 和 Vera Rubin 到 2027 年的订单预期，比去年说的 5000 亿直接翻倍。英伟达股价盘中一度涨超 4%，收盘涨 1.6%。3月16日，英伟达一年一度的\"AI 春晚\" GTC 2026 在圣何塞 SAP 中心开幕，超 3 万人到场（比去年多 5000 人），450+ 赞助商，1000 场分论坛，2000 位演讲者。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
       "date": "2026-03-17",
       "title": "Harness Engineering 是 2025-2026 年 AI 工程领域最重要的新概念之一。它不是一个工具，不是一个框架，而是一套围绕 AI Agent 构建的约束、反馈与控制系统 ——让 Agent 在人类设定的边界内自主、可靠、可持续地工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "2026 年开春，8 家大厂扎堆做“龙虾”。我花了一周，把智谱 AutoClaw 从 app.asar 到 SOUL.md 全逆向了一遍，顺便横评了 8 家竞品。这篇文章，一次讲完。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 41,
+  "count_7d": 37,
   "updates_7d": [
+    {
+      "date": "2026-03-17",
+      "title": "这篇文章带你明晰OpenClaw里的skill本质是什么、skill 的目录层次是怎么样的、以及main agent、agency-agents、sub-agent 之间和skill的关系。很多人第一次接触 OpenClaw 的 skills 机制，都会把几件事混在一起。如果这些边界不先讲清楚，后面一旦开始做 multi-agent 协作，目录结构和行为就会越看越像“玄学”。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-17",
       "title": "这是老黄今天在 GTC 2026 上给出的最炸裂数字，Blackwell 和 Vera Rubin 到 2027 年的订单预期，比去年说的 5000 亿直接翻倍。英伟达股价盘中一度涨超 4%，收盘涨 1.6%。3月16日，英伟达一年一度的\"AI 春晚\" GTC 2026 在圣何塞 SAP 中心开幕，超 3 万人到场（比去年多 5000 人），450+ 赞助商，1000 场分论坛，2000 位演讲者。",
@@ -28,6 +43,11 @@
     {
       "date": "2026-03-17",
       "title": "Harness Engineering 是 2025-2026 年 AI 工程领域最重要的新概念之一。它不是一个工具，不是一个框架，而是一套围绕 AI Agent 构建的约束、反馈与控制系统 ——让 Agent 在人类设定的边界内自主、可靠、可持续地工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-17",
+      "title": "2026 年开春，8 家大厂扎堆做“龙虾”。我花了一周，把智谱 AutoClaw 从 app.asar 到 SOUL.md 全逆向了一遍，顺便横评了 8 家竞品。这篇文章，一次讲完。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -193,36 +213,6 @@
     {
       "date": "2026-03-12",
       "title": "企业的营收增长陷入停滞？你的 GTM（Go-to-market）团队其实并不缺人手，而是缺乏“系统化”的工程思维。Clay 是近两年增速最快的 AI 营销自动化独角兽之一，凭借 AI 驱动的 GTM 与销售自动化能力快速崛起，最新估值达 31 亿美元。本文由 Clay 的联合创始人 Varun Anand 亲述，深度拆解了由他们率先定义的先锋角色——“ GTM 工程师 ”。手把手教你如何寻找、评估以及在组织中部署这群能带来超级杠杆的破局者。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-11",
-      "title": "最近很多人都在讨论 OpenClaw。 有人兴奋，有人焦虑，有人已经开始 FOMO，也有人还停留在“这不就是个会聊天的 AI 吗”的理解里。所以我就想借着今天这个机会，跟大家聊聊我们是如何实现人机协同的，并且在我的带领下，是如何实现整个二月份指标翻倍的。希望看完之后能给大家带去一些帮助或者启发。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-11",
-      "title": "想靠AI极速吃透一个领域？这篇文章带你探究学霸级用法！大多数人只把AI当作总结工具，而MIT研究生用NotebookLM，先批量上传多源资料建立全局视野，再靠三个关键问题击穿知识本质：抓专家心智模型、找领域核心分歧、设计深度自测题。这套方法不挑工具，通用于各类AI，可以帮你跳出碎片记忆，快速搭建学科骨架。真正拉开差距的不是各大AI工具的功能，而是你提问的质量，学会就能大幅提升学习与思考效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-11",
-      "title": "如果你最近在关注 AI Agent 领域，应该注意到了两个大新闻：Meta 花 20 亿美元收购了 Manus，Claude Code 的年收入破了 10 亿美元。这些数字背后藏着一个关键问题——什么样的 Agent 产品才能真正落地？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-11",
-      "title": "OpenClaw训练营第一课带你从底层逻辑看懂它的核心架构，帮你快速建立完整认知。你将学到如何通过四个核心文件训练专属 AI，实现办公、自媒体、团队协作的全流程自动化，还能避开安装、安全、成本等常见坑。一同让 AI 从被动问答变成真正帮你干活、越用越聪明的智能搭档，大幅提升个人与团队效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-11",
-      "title": "Google DeepMind 今天发了Gemini Embedding 2 ，第一个原生全模态 embedding 模型 。文本 、 图片 、 视频 、 音频 、 文档（比如 PDF） ，首次编码进同一个向量空间。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-11",
-      "title": "AI编程正在颠覆传统软件研发，改写工程、产品、设计三大岗位的生存逻辑。以往PRD驱动的流水线模式正在被打破，行业瓶颈从开发转向评审与把关。未来职场或许只分两类人：能用AI快速落地想法的建设者与具备顶级系统思维的评审者。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
