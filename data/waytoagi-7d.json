@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T15:50:32.470089Z",
+  "generated_at": "2026-03-18T19:31:02.473861Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-18",
-  "count_today": 2,
+  "count_today": 5,
   "updates_today": [
     {
       "date": "2026-03-18",
@@ -16,9 +16,24 @@
       "date": "2026-03-18",
       "title": "谷歌官方发布五大Agent Skill设计模式并搭配可直接复用的代码示例，可以帮助开发者搭建稳定高效的智能体工作流。这套实战方法论或许也能帮你告别冗长杂乱的提示词，快速构建标准化、可复用的Agent，提升可靠性与开发效率。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "养虾的最高境界，就是能养出每个组织（现在一个人OPC也是组织）里可以完美fit in业务场景的Agents。虽然虾各不同，但总是会存在一些非常重要基础设施明显优于绝大多数其他同类的。今天这篇文章给大家介绍视频下载界的瑞士军刀yt-dlp，它可以下载1700个网站的视频；如果你的工作流经常围绕视频展开（下载视频，提取音频，抽取文本，二次加工等等），你必然不能错过 yt-dlp。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "《 Builders Unscripted 》是OpenAI官方推出的一档聚焦顶尖开发者的硬核对谈节目。在2026年2月25日首期节目中， Peter Steinberger 围绕 OpenClaw 、他在开源领域的历程，以及如何借助Codex进行构建展开了深入解析。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "MiniMax M2.7模型发布，是MiniMax第一个模型深度参与迭代自己的模型。它能够自行构建复杂Agent Harness，并基于Agent Teams、复杂Skills、Tool Search tool 等能力，完成高度复杂的生产力任务。快来一起看看具体迭代了哪些内容！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-03-18",
@@ -28,6 +43,21 @@
     {
       "date": "2026-03-18",
       "title": "谷歌官方发布五大Agent Skill设计模式并搭配可直接复用的代码示例，可以帮助开发者搭建稳定高效的智能体工作流。这套实战方法论或许也能帮你告别冗长杂乱的提示词，快速构建标准化、可复用的Agent，提升可靠性与开发效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "养虾的最高境界，就是能养出每个组织（现在一个人OPC也是组织）里可以完美fit in业务场景的Agents。虽然虾各不同，但总是会存在一些非常重要基础设施明显优于绝大多数其他同类的。今天这篇文章给大家介绍视频下载界的瑞士军刀yt-dlp，它可以下载1700个网站的视频；如果你的工作流经常围绕视频展开（下载视频，提取音频，抽取文本，二次加工等等），你必然不能错过 yt-dlp。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "《 Builders Unscripted 》是OpenAI官方推出的一档聚焦顶尖开发者的硬核对谈节目。在2026年2月25日首期节目中， Peter Steinberger 围绕 OpenClaw 、他在开源领域的历程，以及如何借助Codex进行构建展开了深入解析。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "MiniMax M2.7模型发布，是MiniMax第一个模型深度参与迭代自己的模型。它能够自行构建复杂Agent Harness，并基于Agent Teams、复杂Skills、Tool Search tool 等能力，完成高度复杂的生产力任务。快来一起看看具体迭代了哪些内容！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -178,41 +208,6 @@
     {
       "date": "2026-03-13",
       "title": "今天这篇文章源于最近半年深度使用 Claude Code、两个账号每月 40 刀氪金换来的一些踩坑经验，希望能给大伙一些输入。这篇文章想和大伙聊聊这几个事：Claude Code 底层怎么运作、上下文为什么会乱以及怎么治理、Skills 和 Hooks 应该怎么设计、Subagents 的正确用法、Prompt Caching 的架构影响，以及怎么写一个真正有用的 CLAUDE.md。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "文科生也能轻松玩转Claude Code！这篇教程把核心逻辑、安装步骤和实用技巧讲得明明白白。不仅拆解了其自主循环工作机制与五大核心组件，还提供了Mac/Windows一键部署脚本。或许能帮你高效搞定编程、写作、数据分析等任务，还理性对比了它与OpenClaw的定位，避开工具选择误区，让大家都能找到提升效率的最优解。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "小白入门OpenClaw不用愁！这份免费开源的实战指南不容错过，苍何耗时数月打磨，从Windows WSL配置、一键部署等基础操作，到数字人制作、小红书封面生成、第二大脑搭建等趣味场景，每一步都有实操截图和具体命令，把坑点难点一一拆解。更贴心打包了精选Skills，不管你懂不懂代码，都能跟着快速上手，轻松解锁OpenClaw的核心玩法。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "在深度使用OpenClaw的过程中，安全与成本成为了制约核心任务落地的两大痛点，也让大家看清了普通Agent框架的致命短板。多数方案只解决模型如何调用工具，却忽略任务调度、上下文管理、会话执行与权限隔离这些关键问题。而OpenClaw真正的核心竞争力，正是被多数人忽视的Gateway网关调度机制。这篇文章作者就用自动发小红书的真实任务当作线索，带你顺着系统的血管走一遍，串起 OpenClaw 的核心工作逻辑，方便大家理解它到底是怎么运转的。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "台大李宏毅教授最近用了整堂课的时间，以 OpenClaw 这个开源 AI Agent 为例，把 AI Agent 背后的运作原理拆解得非常清楚。从 System Prompt 怎么构造人格，到工具调用、子代机制、记忆系统、心跳排程，再到 Context Engineering 这个核心概念，每个环节都用具体例子说明。这篇文章把课程中最值得理解的技术要点整理出来，帮你真正搞懂 AI Agent 到底在干什么。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "分布式系统的故障排查困难？这篇文章结合阿里云、微信等真实故障案例，点出行业致命盲点：追踪系统不能依赖业务组件、需要平衡埋点成本与价值、避免链路断链。用OpenTelemetry、SkyWalking等工具，靠合理采样控制成本，可以提前预警故障。未来，追踪会走向监管、AI 辅助分析、公共基础设施化，看懂这篇，你就看懂了云原生时代架构与风控的真正命脉。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "企业跟风部署数据Agent却频频翻车，连“上季度收入增长”这类基础问题都答不好，核心症结在于缺乏完整业务上下文——不懂指标定义、找不到正确数据源、抓不住隐性部落知识。这篇文章还梳理了市场三大解决方案方向，可以帮企业避开无效部署陷阱，真正让AI在数据分析中发挥价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-12",
-      "title": "企业的营收增长陷入停滞？你的 GTM（Go-to-market）团队其实并不缺人手，而是缺乏“系统化”的工程思维。Clay 是近两年增速最快的 AI 营销自动化独角兽之一，凭借 AI 驱动的 GTM 与销售自动化能力快速崛起，最新估值达 31 亿美元。本文由 Clay 的联合创始人 Varun Anand 亲述，深度拆解了由他们率先定义的先锋角色——“ GTM 工程师 ”。手把手教你如何寻找、评估以及在组织中部署这群能带来超级杠杆的破局者。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
