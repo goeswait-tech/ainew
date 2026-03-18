@@ -1,23 +1,33 @@
 {
-  "generated_at": "2026-03-18T08:02:11.649323Z",
+  "generated_at": "2026-03-18T11:14:07.700078Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-18",
-  "count_today": 1,
+  "count_today": 2,
   "updates_today": [
     {
       "date": "2026-03-18",
       "title": "这篇文章来自 Anthropic 内部团队的实战总结。Anthropic 内部活跃使用的 Skills 已经有几百个，文中的分类体系和编写技巧都是从这些真实的内部实践中提炼出来的。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "谷歌官方发布五大Agent Skill设计模式并搭配可直接复用的代码示例，可以帮助开发者搭建稳定高效的智能体工作流。这套实战方法论或许也能帮你告别冗长杂乱的提示词，快速构建标准化、可复用的Agent，提升可靠性与开发效率。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 39,
   "updates_7d": [
     {
       "date": "2026-03-18",
       "title": "这篇文章来自 Anthropic 内部团队的实战总结。Anthropic 内部活跃使用的 Skills 已经有几百个，文中的分类体系和编写技巧都是从这些真实的内部实践中提炼出来的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-18",
+      "title": "谷歌官方发布五大Agent Skill设计模式并搭配可直接复用的代码示例，可以帮助开发者搭建稳定高效的智能体工作流。这套实战方法论或许也能帮你告别冗长杂乱的提示词，快速构建标准化、可复用的Agent，提升可靠性与开发效率。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
