@@ -1,35 +1,25 @@
 {
-  "generated_at": "2026-03-18T05:21:56.845481Z",
+  "generated_at": "2026-03-18T08:02:11.649323Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-17",
-  "count_today": 4,
+  "latest_date": "2026-03-18",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-03-17",
-      "title": "这篇文章带你明晰OpenClaw里的skill本质是什么、skill 的目录层次是怎么样的、以及main agent、agency-agents、sub-agent 之间和skill的关系。很多人第一次接触 OpenClaw 的 skills 机制，都会把几件事混在一起。如果这些边界不先讲清楚，后面一旦开始做 multi-agent 协作，目录结构和行为就会越看越像“玄学”。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "这是老黄今天在 GTC 2026 上给出的最炸裂数字，Blackwell 和 Vera Rubin 到 2027 年的订单预期，比去年说的 5000 亿直接翻倍。英伟达股价盘中一度涨超 4%，收盘涨 1.6%。3月16日，英伟达一年一度的\"AI 春晚\" GTC 2026 在圣何塞 SAP 中心开幕，超 3 万人到场（比去年多 5000 人），450+ 赞助商，1000 场分论坛，2000 位演讲者。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "Harness Engineering 是 2025-2026 年 AI 工程领域最重要的新概念之一。它不是一个工具，不是一个框架，而是一套围绕 AI Agent 构建的约束、反馈与控制系统 ——让 Agent 在人类设定的边界内自主、可靠、可持续地工作。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-17",
-      "title": "2026 年开春，8 家大厂扎堆做“龙虾”。我花了一周，把智谱 AutoClaw 从 app.asar 到 SOUL.md 全逆向了一遍，顺便横评了 8 家竞品。这篇文章，一次讲完。",
+      "date": "2026-03-18",
+      "title": "这篇文章来自 Anthropic 内部团队的实战总结。Anthropic 内部活跃使用的 Skills 已经有几百个，文中的分类体系和编写技巧都是从这些真实的内部实践中提炼出来的。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 38,
   "updates_7d": [
+    {
+      "date": "2026-03-18",
+      "title": "这篇文章来自 Anthropic 内部团队的实战总结。Anthropic 内部活跃使用的 Skills 已经有几百个，文中的分类体系和编写技巧都是从这些真实的内部实践中提炼出来的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-17",
       "title": "这篇文章带你明晰OpenClaw里的skill本质是什么、skill 的目录层次是怎么样的、以及main agent、agency-agents、sub-agent 之间和skill的关系。很多人第一次接触 OpenClaw 的 skills 机制，都会把几件事混在一起。如果这些边界不先讲清楚，后面一旦开始做 multi-agent 协作，目录结构和行为就会越看越像“玄学”。",
