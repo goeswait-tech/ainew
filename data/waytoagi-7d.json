@@ -1,23 +1,43 @@
 {
-  "generated_at": "2026-03-19T08:00:36.952064Z",
+  "generated_at": "2026-03-19T11:59:58.950001Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-19",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-03-19",
+      "title": "这篇文章带大家了解下Google Stitch这个产品是做什么的以及怎么更好的使用它。简单说，Stitch 就是\"你说，它画\"。告诉它你想要什么界面，它直接给你出设计稿，还支持导出到 Figma、AI Studio 等工具里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-19",
       "title": "Max Brodeur-Urbas 是 Gumloop 的联合创始人兼 CEO。这家公司刚拿了 Benchmark 领投的 5000 万美元 B 轮融资 ，客户包括 Instacart、Shopify、DoorDash、Gusto。在这之前，他是微软的一名普通工程师，因为过边境被遣返而被迫走上创业这条路。这次访谈来自 YouTube 频道 EO（Entrepreneur & Opportunities），来看看他都分享了哪些内容！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Google 的 AI 设计工具 Stitch 昨天发了一次大更新，从 Labs 实验项目正式升级为 AI 原生设计平台。这次不是加个小功能那种升级，是整个产品形态变了。从一个\"用 AI 生成 UI 图片\"的工具，直接进化成了一个 AI 原生的软件设计平台。Google 给这个新方向起了个名字，叫 Vibe Design。让我们一同一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 38,
   "updates_7d": [
     {
       "date": "2026-03-19",
+      "title": "这篇文章带大家了解下Google Stitch这个产品是做什么的以及怎么更好的使用它。简单说，Stitch 就是\"你说，它画\"。告诉它你想要什么界面，它直接给你出设计稿，还支持导出到 Figma、AI Studio 等工具里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
       "title": "Max Brodeur-Urbas 是 Gumloop 的联合创始人兼 CEO。这家公司刚拿了 Benchmark 领投的 5000 万美元 B 轮融资 ，客户包括 Instacart、Shopify、DoorDash、Gusto。在这之前，他是微软的一名普通工程师，因为过边境被遣返而被迫走上创业这条路。这次访谈来自 YouTube 频道 EO（Entrepreneur & Opportunities），来看看他都分享了哪些内容！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Google 的 AI 设计工具 Stitch 昨天发了一次大更新，从 Labs 实验项目正式升级为 AI 原生设计平台。这次不是加个小功能那种升级，是整个产品形态变了。从一个\"用 AI 生成 UI 图片\"的工具，直接进化成了一个 AI 原生的软件设计平台。Google 给这个新方向起了个名字，叫 Vibe Design。让我们一同一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
