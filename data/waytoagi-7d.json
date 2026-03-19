@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-03-19T15:07:50.223413Z",
+  "generated_at": "2026-03-19T18:06:38.078857Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-19",
-  "count_today": 3,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-03-19",
       "title": "这篇文章带大家了解下Google Stitch这个产品是做什么的以及怎么更好的使用它。简单说，Stitch 就是\"你说，它画\"。告诉它你想要什么界面，它直接给你出设计稿，还支持导出到 Figma、AI Studio 等工具里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织、评测、追踪和安全，最后再用 OpenClaw 的实现把这些设计原则串起来看一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "有没有想过，为什么有些人用OpenClaw特别顺手，三两下就能搞定复杂的活儿，而你让小龙虾帮忙做事，它总是\"听不懂人话\"？秘密就藏在一个叫Skill的小东西里。今天咱们用大白话聊聊这个 Skill 到底是啥，怎么用，保证你看完就能明白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "今天，飞书举办 2026 年春季新品发布会。这场发布会 形式罕见 ：全程纯 Demo，没有 PPT。一共发布了 8 款产品，核心只有一件事： 让每个人在飞书里拥有自己的智能伙伴。发布的产品包括：飞书 aily（智能伙伴）、aily 专业版、飞书妙搭、多维表格 AI 搭建、AI 同传、会中 AI 纪要、安克 AI 录音豆、AnyGen × Lark（海外版）。让我们一同一览详情！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -23,11 +38,26 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 38,
+  "count_7d": 35,
   "updates_7d": [
     {
       "date": "2026-03-19",
       "title": "这篇文章带大家了解下Google Stitch这个产品是做什么的以及怎么更好的使用它。简单说，Stitch 就是\"你说，它画\"。告诉它你想要什么界面，它直接给你出设计稿，还支持导出到 Figma、AI Studio 等工具里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织、评测、追踪和安全，最后再用 OpenClaw 的实现把这些设计原则串起来看一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "有没有想过，为什么有些人用OpenClaw特别顺手，三两下就能搞定复杂的活儿，而你让小龙虾帮忙做事，它总是\"听不懂人话\"？秘密就藏在一个叫Skill的小东西里。今天咱们用大白话聊聊这个 Skill 到底是啥，怎么用，保证你看完就能明白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "今天，飞书举办 2026 年春季新品发布会。这场发布会 形式罕见 ：全程纯 Demo，没有 PPT。一共发布了 8 款产品，核心只有一件事： 让每个人在飞书里拥有自己的智能伙伴。发布的产品包括：飞书 aily（智能伙伴）、aily 专业版、飞书妙搭、多维表格 AI 搭建、AI 同传、会中 AI 纪要、安克 AI 录音豆、AnyGen × Lark（海外版）。让我们一同一览详情！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -183,36 +213,6 @@
     {
       "date": "2026-03-14",
       "title": "Box 的 CEO Aaron Levie 写了篇长文，标题直接叫\"Building for trillions of agents\"（为万亿个 Agent 而建）。他是一家年收入12 亿美元的企业软件公司 CEO，每天要面对真实客户的真实需求。他的核心观点就一句话： 未来软件最大的用户群，不是人类，是 Agent。一家公司里 Agent 的数量可能是员工的 100 到 1000 倍，全球加起来会有数万亿个。让我们一同来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "最近发现好多刚入坑的小伙伴在部署OpenClaw的时候，第一步就卡住了——配置大模型API。今天专门给同样卡在这关的你写个秒懂教程，手把手带你过这关！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "最近OpenClaw火的一塌糊涂， 那么我相信只要接触过OpenClaw一段时间的人，基本都会听过一个词： Skill 。你可以不断地给AI加很多的Skill ，让它会更多技能。 但很多时候，真正卡住你的，不是它不会，而是它一个人做不了太多的事情。这时候，真正该上场的，不再是Skill了， 而是另一个重要的东西，就是SubAgent 。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "想让AI编程效率翻倍？这份智能体工程8级进阶指南或许可以帮助你！从基础的Tab补全、智能体IDE，到上下文工程、复合工程，再到MCP与技能、Harness工程，最终抵达后台智能体与自主智能体团队，每一级都藏着生产力跃迁的关键。文中还分享了Dispatch等实战工具、多模型协作技巧，可以帮你避开只依赖工具却无实质提升的坑，真正释放AI编程的核心潜力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "如果文本提取的准确度，这一步做不准，后面再强的分析、检索、生成，基本都白费。作者用同一套测试样本, 让 DeepSeek-OCR-2、PaddleOCR-VL-1.5、GLM-OCR 三个模型，跑了表格、扫描件、手写体、数学公式 四个场景的多轮实测。快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "大公司是如何规模化落地AI研发的呢？Uber的实战方案很有参考价值！它搭建了四层智能体系统，靠MCP网关、Agent Builder、Minion等工具打通全流程，用Code Inbox、uReview解决AI时代代码审查的痛点。如今84%的Uber开发者用智能体编程，65-72%代码由AI生成，Claude Code使用率三月翻倍，工程师每周平均省4小时。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "今天这篇文章源于最近半年深度使用 Claude Code、两个账号每月 40 刀氪金换来的一些踩坑经验，希望能给大伙一些输入。这篇文章想和大伙聊聊这几个事：Claude Code 底层怎么运作、上下文为什么会乱以及怎么治理、Skills 和 Hooks 应该怎么设计、Subagents 的正确用法、Prompt Caching 的架构影响，以及怎么写一个真正有用的 CLAUDE.md。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
