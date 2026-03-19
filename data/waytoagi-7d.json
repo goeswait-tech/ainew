@@ -1,40 +1,25 @@
 {
-  "generated_at": "2026-03-19T05:37:48.896172Z",
+  "generated_at": "2026-03-19T08:00:36.952064Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-18",
-  "count_today": 5,
+  "latest_date": "2026-03-19",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-03-18",
-      "title": "这篇文章来自 Anthropic 内部团队的实战总结。Anthropic 内部活跃使用的 Skills 已经有几百个，文中的分类体系和编写技巧都是从这些真实的内部实践中提炼出来的。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "谷歌官方发布五大Agent Skill设计模式并搭配可直接复用的代码示例，可以帮助开发者搭建稳定高效的智能体工作流。这套实战方法论或许也能帮你告别冗长杂乱的提示词，快速构建标准化、可复用的Agent，提升可靠性与开发效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "养虾的最高境界，就是能养出每个组织（现在一个人OPC也是组织）里可以完美fit in业务场景的Agents。虽然虾各不同，但总是会存在一些非常重要基础设施明显优于绝大多数其他同类的。今天这篇文章给大家介绍视频下载界的瑞士军刀yt-dlp，它可以下载1700个网站的视频；如果你的工作流经常围绕视频展开（下载视频，提取音频，抽取文本，二次加工等等），你必然不能错过 yt-dlp。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "《 Builders Unscripted 》是OpenAI官方推出的一档聚焦顶尖开发者的硬核对谈节目。在2026年2月25日首期节目中， Peter Steinberger 围绕 OpenClaw 、他在开源领域的历程，以及如何借助Codex进行构建展开了深入解析。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "MiniMax M2.7模型发布，是MiniMax第一个模型深度参与迭代自己的模型。它能够自行构建复杂Agent Harness，并基于Agent Teams、复杂Skills、Tool Search tool 等能力，完成高度复杂的生产力任务。快来一起看看具体迭代了哪些内容！",
+      "date": "2026-03-19",
+      "title": "Max Brodeur-Urbas 是 Gumloop 的联合创始人兼 CEO。这家公司刚拿了 Benchmark 领投的 5000 万美元 B 轮融资 ，客户包括 Instacart、Shopify、DoorDash、Gusto。在这之前，他是微软的一名普通工程师，因为过边境被遣返而被迫走上创业这条路。这次访谈来自 YouTube 频道 EO（Entrepreneur & Opportunities），来看看他都分享了哪些内容！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-03-19",
+      "title": "Max Brodeur-Urbas 是 Gumloop 的联合创始人兼 CEO。这家公司刚拿了 Benchmark 领投的 5000 万美元 B 轮融资 ，客户包括 Instacart、Shopify、DoorDash、Gusto。在这之前，他是微软的一名普通工程师，因为过边境被遣返而被迫走上创业这条路。这次访谈来自 YouTube 频道 EO（Entrepreneur & Opportunities），来看看他都分享了哪些内容！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-18",
       "title": "这篇文章来自 Anthropic 内部团队的实战总结。Anthropic 内部活跃使用的 Skills 已经有几百个，文中的分类体系和编写技巧都是从这些真实的内部实践中提炼出来的。",
