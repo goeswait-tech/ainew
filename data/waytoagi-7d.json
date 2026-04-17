@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T16:00:14.648313Z",
+  "generated_at": "2026-04-17T17:02:37.738789Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-17",
-  "count_today": 2,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-04-17",
@@ -14,15 +14,35 @@
     },
     {
       "date": "2026-04-17",
+      "title": "OpenAI推出生命科学专用模型GPT-Rosalind，聚焦生物推理、科研流程、工具调用与实验设计，可以大幅缩短药物研发前期耗时。而且还同步开放了免费科研插件，可以接入50+数据库，普通用户就可以使用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Claude 为什么会被感知成“有灵魂”的产品，普通人到底怎样才算真正接住了模型能力，以及下一代 AI 产品会不会不再只是一个聊天框。带着这些疑问，一起走进本期对话的深度解读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-17",
       "title": "ChatGPT 带着它的新图片模型来了，文字精细度和知识储备达到了新的高度。各类 IP 了如指掌，做广告海报、国内媒体截图都极其逼真，这些大家应该也都见识过了。真人图效果比较吃提示词，想要效果好可以给更多细节描述。阿真带着超全测评来了，快来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 37,
   "updates_7d": [
     {
       "date": "2026-04-17",
       "title": "OpenCLI把复杂网页操作变成极简命令，一行指令就能秒查热榜、搜爆款、导数据，大幅提升信息获取效率。依托后台服务与浏览器插件联动，可以覆盖知乎、小红书、GitHub等数十平台，既能支撑内容创作者快速找选题，也适合程序员高效查项目。本篇指南，小白也能快速上手，彻底告别繁琐手动操作。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "OpenAI推出生命科学专用模型GPT-Rosalind，聚焦生物推理、科研流程、工具调用与实验设计，可以大幅缩短药物研发前期耗时。而且还同步开放了免费科研插件，可以接入50+数据库，普通用户就可以使用。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-17",
+      "title": "Claude 为什么会被感知成“有灵魂”的产品，普通人到底怎样才算真正接住了模型能力，以及下一代 AI 产品会不会不再只是一个聊天框。带着这些疑问，一起走进本期对话的深度解读。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
