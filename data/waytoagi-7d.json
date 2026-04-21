@@ -1,20 +1,40 @@
 {
-  "generated_at": "2026-04-21T14:15:09.570337Z",
+  "generated_at": "2026-04-21T15:51:31.971754Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-04-21",
-  "count_today": 1,
+  "count_today": 3,
   "updates_today": [
+    {
+      "date": "2026-04-21",
+      "title": "花叔依托 Claude Design 精髓重构了工作流，打造了一个适配终端的设计 Skill。在终端一句话即可完成 PPT、可交互原型、动画等设计产出。还支持多风格并行生成，成本与效率远超传统工具。这篇文章讲三件事：为什么做这个skill、它能做什么（带一堆案例）、以及它和Claude Design的差异在哪里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Mahesh Yadav，一个做过 Microsoft、Amazon、Meta、Google 的产品经理。本期谈话他将带我们一起拆解下：PM 的价值到底会变大，还是会被边缘化？ 他没有在讲一套空中楼阁的方法论，而是在用自己从大厂到独立 Builder 的切换，解释 PM 为什么必须重新定义自己的工作边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-21",
       "title": "GPT-Image-2已经全量上线，在中文排版、复杂版式与长图文呈现上实现了跨越式升级。短短几句提示词，就能一键生成杂志封面、信息长图、复古海报、UI界面、古风印刷品等专业级内容，风格迁移精准、细节质感拉满。作者实测了五十张作品，覆盖实用设计与趣味创作，快来看看效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 37,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-04-21",
+      "title": "花叔依托 Claude Design 精髓重构了工作流，打造了一个适配终端的设计 Skill。在终端一句话即可完成 PPT、可交互原型、动画等设计产出。还支持多风格并行生成，成本与效率远超传统工具。这篇文章讲三件事：为什么做这个skill、它能做什么（带一堆案例）、以及它和Claude Design的差异在哪里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-21",
+      "title": "Mahesh Yadav，一个做过 Microsoft、Amazon、Meta、Google 的产品经理。本期谈话他将带我们一起拆解下：PM 的价值到底会变大，还是会被边缘化？ 他没有在讲一套空中楼阁的方法论，而是在用自己从大厂到独立 Builder 的切换，解释 PM 为什么必须重新定义自己的工作边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-21",
       "title": "GPT-Image-2已经全量上线，在中文排版、复杂版式与长图文呈现上实现了跨越式升级。短短几句提示词，就能一键生成杂志封面、信息长图、复古海报、UI界面、古风印刷品等专业级内容，风格迁移精准、细节质感拉满。作者实测了五十张作品，覆盖实用设计与趣味创作，快来看看效果如何！",
