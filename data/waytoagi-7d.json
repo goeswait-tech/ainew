@@ -1,50 +1,45 @@
 {
-  "generated_at": "2026-10-21T16:02:16.168008Z",
+  "generated_at": "2026-10-21T20:17:37.825829Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-10-20",
-  "count_today": 7,
+  "latest_date": "2026-10-21",
+  "count_today": 3,
   "updates_today": [
     {
-      "date": "2026-10-20",
-      "title": "还在苦恼AI生成的官网模板化太严重、没有辨识度？Taste Skill 这套网页设计Skill，会帮你优先挖掘项目独有的故事细节，再匹配风格素材，还能跨设备自检页面问题。文中附上了多组对照案例，同时还给出了可直接复制的部署命令与任务提示词。快来上手试试！",
+      "date": "2026-10-21",
+      "title": "学了不少 AI 工具，却一直没做出能落地的作品？WaytoAGI 训练营的几位同学给出了答案：从课堂上的陌生人，到组队参加安克首届黑客松，他们围绕家庭储能、办公陪伴等真实问题，24 小时做出的产品，最终拿下一冠两季。这篇文章记录了他们如何靠作品被看见、找到靠谱队友，并把行业经验变成产品。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-10-20",
-      "title": "想玩 ESP32，很多人还没动手就被 S3、C6、N16R8 和几百块开发板绕晕。这份新手指南给出了一个清晰的思路：先锁定想要实现的项目，再根据项目需求挑选开发板。文中还梳理了各个芯片的定位、多条硬件的搭建路线，以及高频踩坑点，帮你低成本给 Agent 装上实体硬件。",
+      "date": "2026-10-21",
+      "title": "你问AI明天天气，它几秒就给出答案和出处，背后却是模型拆检索词、搜索引擎筛结果，再把信息送回模型判断；复杂任务还要由 Agent 连续搜好几轮。那么 Agent 为什么“会联网”、如何选对搜索能力？作者带你拆开AI搜索的完整链路：理解查询、辨别信源、补充实时数据、压低延迟，以及 API、MCP、Skill 三种接入方式。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-10-20",
-      "title": "你是不是也收藏了一大堆优质提示词，用时却总想不起来？作者借鉴了智能路由的思路，打造出名为“老爷爷”的Skill，内置25条原版未改动的思考类提示词。你只需描述当下难题，它就能自动匹配最合适的思考工具，全程保留原文约束，不会削弱提示效果。而且工具之间互不冲突、不会覆盖已有插件，可以帮你告别提示词吃灰！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "作者这篇文章拆解了代码渲染动画的底层逻辑，盘点了 HyperFrames、Remotion、rough.js、Manim、three.js、Blender 等 9 种方案，覆盖网页动效、手绘水彩、数学板书、地图路线和 3D 视频，而且还附上了原理、开源项目与选型建议。想用 AI 做视频起号、科普内容或宣传片，可以先从这篇找到适合自己的技术路线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "作者分享了用 Claude Code+Opus 5.5 快速跑通 AI 资讯竖屏短视频生产的完整实战链路，而且还对比了使用 DeepSeek 的效果差异，开源包含 18 套竖屏样式的视频风格 Skill，看完这些你也可以上手试试，做出有辨识度的科普资讯短视频。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "从捏起一张薄纸、转动一枚硬币这类日常动作切入，CY这篇文章拆解了灵巧手背后的感知、传动与控制逻辑，帮你看懂演示视频、横向对比方案，快速判断一款灵巧手是否适配真实业务场景。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "DeepSeek 最新开源推理框架 DeepInfer 与编解码组件 deepseek-recipe，揭秘了 V4.1 Flash 高性能推理背后的整套工程方案。",
+      "date": "2026-10-21",
+      "title": "为什么模型读了海量资料，却连“给 6 岁孩子讲登月”都可能答非所问？关键在于，预训练只会让它学会预测下一个词，离真正会听指令、完成复杂推理，还差一次“岗前培训”。这篇文章解释了 RLHF、DPO、奖励模型等概念，读完你也能理顺预训练与后训练的分工。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 27,
+  "count_7d": 30,
   "updates_7d": [
+    {
+      "date": "2026-10-21",
+      "title": "学了不少 AI 工具，却一直没做出能落地的作品？WaytoAGI 训练营的几位同学给出了答案：从课堂上的陌生人，到组队参加安克首届黑客松，他们围绕家庭储能、办公陪伴等真实问题，24 小时做出的产品，最终拿下一冠两季。这篇文章记录了他们如何靠作品被看见、找到靠谱队友，并把行业经验变成产品。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "你问AI明天天气，它几秒就给出答案和出处，背后却是模型拆检索词、搜索引擎筛结果，再把信息送回模型判断；复杂任务还要由 Agent 连续搜好几轮。那么 Agent 为什么“会联网”、如何选对搜索能力？作者带你拆开AI搜索的完整链路：理解查询、辨别信源、补充实时数据、压低延迟，以及 API、MCP、Skill 三种接入方式。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "为什么模型读了海量资料，却连“给 6 岁孩子讲登月”都可能答非所问？关键在于，预训练只会让它学会预测下一个词，离真正会听指令、完成复杂推理，还差一次“岗前培训”。这篇文章解释了 RLHF、DPO、奖励模型等概念，读完你也能理顺预训练与后训练的分工。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-10-20",
       "title": "还在苦恼AI生成的官网模板化太严重、没有辨识度？Taste Skill 这套网页设计Skill，会帮你优先挖掘项目独有的故事细节，再匹配风格素材，还能跨设备自检页面问题。文中附上了多组对照案例，同时还给出了可直接复制的部署命令与任务提示词。快来上手试试！",
