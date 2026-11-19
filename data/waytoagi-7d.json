@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:38:06.476664Z",
+  "generated_at": "2026-11-19T22:54:14.243884Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
@@ -58,7 +58,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 48,
+  "count_7d": 42,
   "updates_7d": [
     {
       "date": "2026-11-19",
@@ -268,36 +268,6 @@
     {
       "date": "2026-11-14",
       "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "这篇集结了Next Token多期沉淀的AI认知金句，围绕Token经济学、AI原生产品、Agent架构、个人品牌与组织转型展开。或许你也能从中获得审视AI生意与创作路径的新思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "用AI做图，有时候好不容易出了一张满意的，想改两个字，结果连旁边的东西都变了。再改一轮，又冒出别的问题，真挺烦的。老金这次直接拿即梦 Seedream 5.5 做实测，一起看看到底好不好用？",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "不会写代码，怎么用 AI 做出自己的第一个产品？作者用豆包工作，带你从零搓出你的第一个产品。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "WaytoAGI第七期AI硬件训练营顺利结营，超半数学员是零基础小白，依托EasyInput V2.0开发板，在8节课程、社群互助中跑通软硬件开发链路。大家从自身生活需求出发，产出育儿记录、英语学习、桌面工作台等大量落地作品。这篇文章完整收录了学员成长故事、实战金句与可复用踩坑经验，适合想入门 AI 硬件、动手把想法做成实体项目的创作者参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "Seedance 2.5 Flash发布，作者进行了多个场景的实测，覆盖纪实街采、古装短剧、萌宠IP、电商广告等高频需求。快来看看效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "AI 短剧里人物突然换位置、台词和口型对不上，问题可能从拆分镜时就埋下了。作者拿一部 4 分 40 秒、约 60 个镜头的短片，带你拆解如何定人物站位、安排切镜和时长，再整理成能交给视频模型生成的素材段落。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
