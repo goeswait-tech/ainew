@@ -1,45 +1,35 @@
 {
-  "generated_at": "2026-11-22T10:10:02.223814Z",
+  "generated_at": "2026-11-22T17:57:39.556711Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-11-21",
-  "count_today": 6,
+  "latest_date": "2026-11-22",
+  "count_today": 2,
   "updates_today": [
     {
-      "date": "2026-11-21",
-      "title": "这套Agent工程方案提出了一个“循环+依赖图”双层架构，可以解决开发者逐行审核、沦为流程瓶颈的痛点。",
+      "date": "2026-11-22",
+      "title": "这一次，我们把黑客松搬进了乐队 Live 现场，4小时能做出怎样的AI舞台视觉？11月20—21日，WaytoAGI与 ACE-CON联合发起首届 AI×音乐视觉黑客松，剪映提供独家工具支持，近 600 人报名、38 支队伍进入线下，最终8支作品登上国家会议中心主舞台，与乐队同台共演。来看看，当代码、画面和摇滚相遇，创作者们交出了怎样的现场答卷。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-11-21",
-      "title": "模型榜单看了不少，那换到自己的任务里到底谁更好用？小歪给 Gemini 4 Neon、Claude Opus 5.5 和 GPT-6.2 同一道题：不用生图模型，纯代码制作跨越 20 个艺术时代的动画，把三家的成片放在一起进行了一个对比。正在选模型、考虑订阅的朋友，可以先看这组实测，再判断画面、速度和使用成本哪项更符合自己的需求。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-21",
-      "title": "想让品牌被 AI 搜到、推荐，靠批量发文章就够了吗？这份第二届 GEO 大会首日复盘，汇总了品牌方、服务商和出海创业者的实战分享：从用户会怎么问、内容该发在哪，到官网如何承接客户、效果怎样监测，也谈了低价接单和需求失控带来的亏损。一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-21",
-      "title": "反复提醒 AI“想清楚再做、交付前检查”，结果它还是会跑偏？作者把以终为始、二八法则、逆向思考等 12 条做事常识，改写成 Agent 能执行的具体规则：什么情况下该追问、何时停下重查、交付前必须验证什么。或许会有所帮助！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-21",
-      "title": "作者公开了团队内部用AI剪辑视频的完整工作流：从脚本和口播素材出发，用参考图统一调色、Skill 设计分镜，再完成配乐、音效和剪辑。先打磨开头 30 秒，再扩展全片，用“时间码＋问题＋截图”让 AI 精准修改。适合做口播、教程和科普视频的创作者照着跑一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-21",
-      "title": "LangChain 抛出 “知识工厂” 这套企业 Agent 落地思路，打破了只靠堆模型、加上下文的常见误区。如果你是在搭建企业内部智能体的开发者，或许可以帮你解决 Agent 看不懂内部规范、业务口径混乱、知识库难持续更新的核心难题。",
+      "date": "2026-11-22",
+      "title": "Agent 能不能自己积累经验、改进技能，还越用越省钱？本期精选的10篇AI 论文从让 AI 记住每次修改的得失、自动盯训练，到精简 Skill、审核高风险更新，集中探讨了“如何让智能体持续进步”。做 Agent 开发或关注 AI 研究的朋友，可以重点看看其中的实践思路。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 44,
+  "count_7d": 39,
   "updates_7d": [
+    {
+      "date": "2026-11-22",
+      "title": "这一次，我们把黑客松搬进了乐队 Live 现场，4小时能做出怎样的AI舞台视觉？11月20—21日，WaytoAGI与 ACE-CON联合发起首届 AI×音乐视觉黑客松，剪映提供独家工具支持，近 600 人报名、38 支队伍进入线下，最终8支作品登上国家会议中心主舞台，与乐队同台共演。来看看，当代码、画面和摇滚相遇，创作者们交出了怎样的现场答卷。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-11-22",
+      "title": "Agent 能不能自己积累经验、改进技能，还越用越省钱？本期精选的10篇AI 论文从让 AI 记住每次修改的得失、自动盯训练，到精简 Skill、审核高风险更新，集中探讨了“如何让智能体持续进步”。做 Agent 开发或关注 AI 研究的朋友，可以重点看看其中的实践思路。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-11-21",
       "title": "这套Agent工程方案提出了一个“循环+依赖图”双层架构，可以解决开发者逐行审核、沦为流程瓶颈的痛点。",
@@ -223,41 +213,6 @@
     {
       "date": "2026-11-17",
       "title": "Anthropic 公开了 Claude Code 团队的核心工程经验：验证循环是大规模并行跑编码智能体的基石。这套方案能让智能体自主查漏、迭代修复，帮开发者从逐行审代码转向定义验收标准，释放多Agent并发开发的潜力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "豆包工作上新多模型消费倍率机制，DeepSeek V4.1 Flash限时低至0.01倍额度，低成本兼顾速度与效果。梦飞实测过程中发现它独立完成可交互3D沙盘、品牌提案PPT、水下滚动演示等高复杂度任务，整体消耗极低，签到的额度就足以覆盖。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "自媒体博主麦当开源了一套面向多平台创作者的自动化运营方案，帮你告别跨平台分发、数据分散的麻烦。它聚合了多平台数据，支持同期播放对比、流量转化漏斗复盘，直观判断渠道价值。此外还支持一行命令快速部署，可对接独立站、付费产品，适合想搭建低成本自动化内容运营链路的创作者。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "不少人长期用AI做项目都会卡在上下文丢失：换对话就要反复交代背景，AI还会反复拿出早已否决的方案。作者转变文档思路，把AI视作文档读者，借鉴软件工程规范搭建分层目录，靠README、规则文件、决策归档区分有效方案与废弃版本。文中还给出了可直接使用的整理提示词，帮你把存量项目梳理成AI能读懂的结构，大幅减少重复沟通，搭建可长期运转的AI项目工作流。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "《AI 工具站 SEO 小册子：图解入门》——从认知到基建，从内容到外链，再到规模化与增长复盘。全书按实际执行顺序展开，可以从头读到尾，也可以在遇到问题时直接翻对应章节。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "AI音乐赛道这周风波不断，版权诉讼持续拉扯，Suno当庭质疑老牌唱片合约缺少AI训练授权，高额索赔持续加码。多款生产力工具更新落地，ACE人声模型拿下盲测榜首，Suno Bridge、Mirelo插件无缝对接专业剪辑编曲软件。韩流AI曲目登顶主流榜单却卡在版税确权，SIQA搭建独立AI音乐奖项生态，还有8篇前沿论文，可以帮创作者看清合规红线、快速挑选趁手工具。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "AI时代真正的瓶颈在于注意力与Token消耗，卡尔把Anthropic常驻Agent设计思路转化为了通用提示词。最后实测大幅减少了无效调用，直接省下55%使用额度，给多Personal Agent使用者一套低成本控费方案。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "11 月 14 日，2026 成都科幻周开幕式暨第三届成都天问华语科幻文学大赛成果发布会，在成都科幻馆雨果厅举行。AJ 也带来重磅分享，拆解了 AI 时代科幻故事 IP 落地的全新路径，为苦于文字作品难以影像化的创作者提供了清晰解法！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
